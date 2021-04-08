@@ -9,3 +9,6 @@ The CSS was the most difficult part, but i am so happy with the result.
 The deployed site can be located at 
 
 [Deployed Site](https://farrancampbell.github.io/updated_portfolio/)
+[GitHub](https://github.com/Farrancampbell/updated_portfolio)
+
+![Screenshot](/assets/img/Screen_Shot_2021-04-08.png)
