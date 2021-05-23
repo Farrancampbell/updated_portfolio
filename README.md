@@ -11,7 +11,6 @@ The deployed site can be located at
 [Deployed Site](https://farrancampbell.github.io/updated_portfolio/)
 
 
-[GitHub](https://github.com/Farrancampbell/updated_portfolio)
 
 
 
